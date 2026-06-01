@@ -22,18 +22,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Role-Based Access Controls
+- Create and Organize Departments and Teams
+- Provision Agents and End Users
+- Implement Service Level Agreements
+- Configure Ticket Categorization 
 
 <h2>Configuration Steps</h2>
 
 <p>
 <img <img width="988" height="489" alt="Screenshot 2026-05-31 201214" src="https://github.com/user-attachments/assets/e83b0337-c694-4244-b8d6-3f514153d786" />
  
- />
+ 
 </p>
 <p>
 This screenshot demonstrates the configuration of organizational structures within osTicket, including roles, departments, and teams. A custom administrative role, departmental support group, and cross-functional team were created to establish role-based access controls, ticket visibility rules, and collaborative support workflows. These configurations simulate how enterprise IT organizations manage personnel responsibilities and ticket routing.
