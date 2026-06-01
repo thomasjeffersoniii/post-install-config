@@ -18,7 +18,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11</b> (25H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
@@ -36,7 +36,7 @@ This tutorial outlines the post-install configuration of the open-source help de
  />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot demonstrates the configuration of organizational structures within osTicket, including roles, departments, and teams. A custom administrative role, departmental support group, and cross-functional team were created to establish role-based access controls, ticket visibility rules, and collaborative support workflows. These configurations simulate how enterprise IT organizations manage personnel responsibilities and ticket routing.
 </p>
 <br />
 
@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot shows the creation and management of support agents and end users within the osTicket platform. Agents were assigned to appropriate departments to support ticket routing and escalation processes, while customer accounts were created to simulate end-user interaction with the help desk system. This configuration demonstrates identity management and user administration within a service desk environment.
 </p>
 <br />
 
@@ -54,6 +54,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot displays the configuration of Service Level Agreements (SLAs) and Help Topics within osTicket. SLA policies were created to establish response time expectations based on ticket severity, while Help Topics were configured to categorize incoming requests and improve ticket routing efficiency. These settings support incident prioritization, service management, and operational workflow organization.
 </p>
 <br />
