@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
 <img <img width="988" height="489" alt="Screenshot 2026-05-31 201214" src="https://github.com/user-attachments/assets/e83b0337-c694-4244-b8d6-3f514153d786" />
- />
+ 
  />
 </p>
 <p>
@@ -42,7 +42,7 @@ This screenshot demonstrates the configuration of organizational structures with
 
 <p>
 <img <img width="986" height="471" alt="Screenshot 2026-05-31 201244" src="https://github.com/user-attachments/assets/868ae39a-2ef0-4bf0-854c-7189c55f70db" />
-/>
+
 </p>
 <p>
 This screenshot shows the creation and management of support agents and end users within the osTicket platform. Agents were assigned to appropriate departments to support ticket routing and escalation processes, while customer accounts were created to simulate end-user interaction with the help desk system. This configuration demonstrates identity management and user administration within a service desk environment.
@@ -51,7 +51,7 @@ This screenshot shows the creation and management of support agents and end user
 
 <p>
 <img <img width="1903" height="822" alt="Screenshot 2026-05-31 201343" src="https://github.com/user-attachments/assets/8ce6bfa8-1b5c-41fe-9cbb-a0eb1756bc23" />
-/>
+
 </p>
 <p>
 This screenshot displays the configuration of Service Level Agreements (SLAs) and Help Topics within osTicket. SLA policies were created to establish response time expectations based on ticket severity, while Help Topics were configured to categorize incoming requests and improve ticket routing efficiency. These settings support incident prioritization, service management, and operational workflow organization.
